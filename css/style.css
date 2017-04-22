@@ -71,6 +71,16 @@ p {
   }
 }
 
+@media (min-width: 1920px) {
+  .container {
+    width: 1875px;
+  }
+  .hero {
+    font-size: 32px;
+    line-height: 26px; 
+  }
+}
+
 /* HEADER */
 header {
   color: #FFFFFF;
