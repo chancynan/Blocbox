@@ -441,6 +441,10 @@ footer .logo {
    margin-top:8px;
  }
 
+ .left-nav .active {
+  background-color: #34495E;
+ }
+
 /* CONTENT */
  .content {
    padding:6em 1% 1.5em;
